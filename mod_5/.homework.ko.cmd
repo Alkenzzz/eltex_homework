@@ -1,0 +1,1 @@
+savedcmd_/home/user/mod_5/homework.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/user/mod_5/homework.ko /home/user/mod_5/homework.o /home/user/mod_5/homework.mod.o
